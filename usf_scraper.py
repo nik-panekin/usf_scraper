@@ -1,5 +1,5 @@
 """The script scrapes descriptions from the Ukrainian Startup Fund for each
-project and then crawles the Web in search for contact data of the projects.
+project and then crawls the Web in search for contact data of the projects.
 """
 import logging
 import time
