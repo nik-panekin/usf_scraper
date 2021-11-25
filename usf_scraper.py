@@ -45,7 +45,7 @@ CATEGORY_ID = '78'
 
 TIME_DELAY = 1
 
-# Ony files with these extensions are treated as webpages by the crawler
+# Only files with these extensions are treated as webpages by the crawler
 HTML_EXTENSIONS = [
     '.htm', '.html', '.asp', '.aspx', '.cgi', '.php', '.pl', '.py'
 ]
